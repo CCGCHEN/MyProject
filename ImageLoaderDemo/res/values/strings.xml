@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageLoader测试Listview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_item_clear_memory_cache">clear_memory_cache</string>
+    <string name="menu_item_clear_disc_cache">clear_disc_cache</string>
+    <string name="menu_item_pause_on_scroll">pause_on_scroll</string>
+    <string name="menu_item_pause_on_fling">pause_on_fling</string>
+    <string name="descr_image">descr_image</string>
+    <string name="label_activity_examples">label_activity_examples</string>
+    <string name="button_image_list">button_image_list</string>
+
+</resources>
